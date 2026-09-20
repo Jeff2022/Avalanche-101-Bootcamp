@@ -18,9 +18,13 @@
 
 完成（我的截图）：
 
-任务一：[task1_Jeff2022_signup.png](task1_Jeff2022_signup.png)
+任务一：
 
-任务二：[task1_Jeff2022_X.jpg](task1_Jeff2022_X.jpg)
+![task1_Jeff2022_signup.png](./res/task1_Jeff2022_signup.png)
+
+任务二：
+
+![task1_Jeff2022_X.jpg](./res/task1_Jeff2022_X.jpg)
 
 ## 提交方式
 
